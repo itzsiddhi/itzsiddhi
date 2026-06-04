@@ -57,6 +57,6 @@ I operate at the chaotic intersection of building modern web applications, leadi
 If you want to talk system architecture, open-source builds, hardware security, or if you just want to debate why CSS centering is still a psychological hazard, let's connect:
 
 *   **LinkedIn:** [Know About me -- Professionally](https://www.linkedin.com/in/siddhi-tiwari-moi/)
-*   **ORCID iD:** [Check out my actual peer-reviewed research profile](https://orcid.org/0009-0005-4113-7542)
+*   **ORCID iD:** [Check out my actual research profile](https://orcid.org/0009-0005-4113-7542)
 
 *"I have 10,000 lines of code, 50 open tabs, and 0 idea why the frontend is suddenly purple. Let's collaborate."*
