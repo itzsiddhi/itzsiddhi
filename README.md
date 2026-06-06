@@ -159,13 +159,10 @@ or debate why CSS centering is still a psychological hazard?
 ---
 
 <div align="center">
-
-```
-"10,000 lines of code. 50 open tabs.
- 0 idea why the frontend is suddenly purple.
- But the architecture held. Let's collaborate."
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,24,30,12&height=100&section=footer&animation=fadeIn" width="100%" />
-
+<br>
+"10,000 lines of code. 50 open tabs.<br>
+0 idea why the frontend is suddenly purple.<br>
+But the architecture held. Let's collaborate."
+<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer&fontColor=cc88ff&animation=fadeIn" width="100%" />
 </div>
