@@ -163,6 +163,8 @@ or debate why CSS centering is still a psychological hazard?
 "10,000 lines of code. 50 open tabs.<br>
 0 idea why the frontend is suddenly purple.<br>
 But the architecture held. Let's collaborate."
+<br><br>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=siddhi-tiwari.siddhi-tiwari&left_text=PROFILE+VISITORS&left_color=0d0820&right_color=8822cc" alt="Visitor Count" />
 <br>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer&fontColor=cc88ff&animation=fadeIn" width="100%" />
 </div>
